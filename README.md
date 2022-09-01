@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stroed&label=Profile%20views&color=0e75b6&style=flat" alt="stroed" /> </p>
 
-- 🔭 I’m currently working on **learning php's OOP**
+- 🔭 I’m currently working on **learning php's PDO**
 
 - 🌱 I’m currently learning **C#, symfony, Unity**
 
